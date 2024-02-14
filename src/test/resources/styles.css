@@ -1,9 +1,16 @@
-.btnSubmit {
-    background-color: black;
-    color: white
+h1 {
+  color:blue;
+  background-color:black
 }
 
-.firstNameInput {
-    min-height: 40px;
-    max-height: 40px;
+div > h1 {
+ color:green
+}
+
+#section {
+    background-color:gray
+}
+
+.buttons {
+    padding:20px
 }
