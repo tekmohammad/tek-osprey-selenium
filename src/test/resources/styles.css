@@ -14,3 +14,8 @@ div > h1 {
 .buttons {
     padding:20px
 }
+
+.drop-down {
+    padding: 1rem
+    width: 150px;
+}
